@@ -20,5 +20,4 @@ spring:
     properties:
       hibernate.format_sql: true # 한줄로 나와야 하는 디버그 문을 예쁘게...
       hibernate.default_batch_fetch_size: 100 # 연관관계 매핑 쿼리를 한 번에 가져올 수 있게... 최대 100개 벌크 가능
-  h2.console.enabled: true # h2 콘솔을 활성화 할 것인가?
   sql.init.mode: always # data.sql을 언제 작동 시키나?
