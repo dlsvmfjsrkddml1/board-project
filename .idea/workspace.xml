@@ -143,7 +143,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ArticleControllerTest">
+  <component name="RunManager" selected="Gradle.board-project [build]">
     <configuration name="DataRestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -254,9 +254,9 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.board-project [build]" />
         <item itemvalue="JUnit.ArticleControllerTest" />
         <item itemvalue="Spring Boot.BoardProjectApplication" />
-        <item itemvalue="Gradle.board-project [build]" />
         <item itemvalue="Gradle.board-project [clean]" />
         <item itemvalue="Gradle.DataRestTest" />
       </list>
