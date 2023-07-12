@@ -12,14 +12,15 @@
       <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleCommentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleCommentRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/controller/ArticleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/ArticleControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/DataRestTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/DataRestTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +68,7 @@
       <list>
         <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -111,33 +113,34 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/GitProject/board-project&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;spring.configuration.checksum&quot;: &quot;b15775ad67515f92c09eb996c8be9c9a&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "last_opened_file_path": "C:/GitProject/board-project",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "spring.configuration.checksum": "b15775ad67515f92c09eb996c8be9c9a",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;mysql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
@@ -154,30 +157,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.board-project [build]">
-    <configuration name="DataRestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;yong.boardproject.controller.DataRestTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Spring Boot.BoardProjectApplication">
     <configuration name="board-project [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -190,27 +170,6 @@
         <option name="taskNames">
           <list>
             <option value="build" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="board-project [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="clean" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -235,15 +194,39 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BoardProjectApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="board-project.board-project.main~1" />
-      <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
+    <configuration name="ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="board-project.board-project.test~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yong.boardproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.ArticleControllerTest" />
+      <option name="METHOD_NAME" value="givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataRestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="board-project.board-project.test~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yong.boardproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.DataRestTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="BoardProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="board-project.board-project.main" />
+      <module name="board-project.board-project.main~1" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
       <extension name="coverage">
         <pattern>
@@ -257,19 +240,18 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.board-project [build]" />
-      <item itemvalue="Gradle.board-project [clean]" />
-      <item itemvalue="Gradle.DataRestTest" />
+      <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
+      <item itemvalue="JUnit.DataRestTest" />
       <item itemvalue="JUnit.ArticleControllerTest" />
-      <item itemvalue="Spring Boot.BoardProjectApplication (1)" />
       <item itemvalue="Spring Boot.BoardProjectApplication" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.board-project [build]" />
-        <item itemvalue="JUnit.ArticleControllerTest" />
         <item itemvalue="Spring Boot.BoardProjectApplication" />
-        <item itemvalue="Gradle.board-project [clean]" />
-        <item itemvalue="Gradle.DataRestTest" />
+        <item itemvalue="Gradle.board-project [build]" />
+        <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
+        <item itemvalue="JUnit.DataRestTest" />
+        <item itemvalue="JUnit.ArticleControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +265,7 @@
       <updated>1689065422829</updated>
       <workItem from="1689065423929" duration="164000" />
       <workItem from="1689065618676" duration="7630000" />
-      <workItem from="1689120070725" duration="12571000" />
+      <workItem from="1689120070725" duration="15096000" />
     </task>
     <servers />
   </component>
