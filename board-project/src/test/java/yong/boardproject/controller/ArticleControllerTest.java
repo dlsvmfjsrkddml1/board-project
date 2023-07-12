@@ -44,7 +44,7 @@ class ArticleControllerTest {
         // When & Then
         mvc.perform(MockMvcRequestBuilders.get("/articles/1"))
                 .andExpect(status().isOk())
-                .andExpect(content().contentType(MediaType.TEXT_HTML))
+                .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))
                 .andExpect(view().name("articles/detail"))
                 // 게시글을 보면 데이터가 있어야 함. 데이터가 있는지 확인
                 .andExpect(model().attributeExists("article"))
@@ -60,7 +60,7 @@ class ArticleControllerTest {
         // When & Then
         mvc.perform(MockMvcRequestBuilders.get("/articles/search"))
                 .andExpect(status().isOk())
-                .andExpect(content().contentType(MediaType.TEXT_HTML))
+                .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))
                 .andExpect(view().name("articles/search"));
     }
 
@@ -73,7 +73,7 @@ class ArticleControllerTest {
         // When & Then
         mvc.perform(MockMvcRequestBuilders.get("/articles/search-hashtag"))
                 .andExpect(status().isOk())
-                .andExpect(content().contentType(MediaType.TEXT_HTML))
+                .andExpect(content().contentTypeCompatibleWith(MediaType.TEXT_HTML))
                 .andExpect(view().name("articles/search-hashtag"));
 
     }
