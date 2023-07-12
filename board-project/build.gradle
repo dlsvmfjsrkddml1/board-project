@@ -32,8 +32,40 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
+
+    // queryDSL 설정
+    implementation "com.querydsl:querydsl-jpa" // 버전이 없는데, 이것은 디펜던시 메니저가 알기 때문이다.
+    implementation "com.querydsl:querydsl-core"
+    implementation "com.querydsl:querydsl-collections"
+    annotationProcessor "com.querydsl:querydsl-apt:${dependencyManagement.importedProperties['querydsl.version']}:jpa" // querydsl JPAAnnotationProcessor 사용 지정
+    annotationProcessor "jakarta.annotation:jakarta.annotation-api" // java.lang.NoClassDefFoundError (javax.annotation.Generated) 대응 코드
+    annotationProcessor "jakarta.persistence:jakarta.persistence-api" // java.lang.NoClassDefFoundError (javax.annotation.Entity) 대응 코드
 }
 
 tasks.named('test') {
     useJUnitPlatform()
+}
+
+
+// Querydsl 설정부 a먼저 문자열로 변수를 만들었다. generated라는 디렉토리를 만들었다. 이 옵션이 없으면 자동으로 쿼리 DSL이 클래스를
+// 만드는데 QClass를 build 디렉퇼 안에서 만드는데, 이것을 하위 디렉토리로 꺼내려고 한 것이다.
+// 인텔리제이에서는 Q클래스를 기본으로 하면, gradle.build 할때 스캔하는 영역과 intellij가 스캔 영역이 달라서,
+// 반복적인 스캔이 일어난다. 그래서 충동이 일어나서 Q클래스의 위치를 옮기게 되었다. gradle의 동작과 인텔리제이의 동작이 동일해진다.
+def generated = 'src/main/generated'
+
+// querydsl QClass 파일 생성 위치를 지정
+tasks.withType(JavaCompile) {
+    options.getGeneratedSourceOutputDirectory().set(file(generated))
+}
+
+// java source set 에 querydsl QClass
+// gradle의 소스 셋 정리위치 추가
+sourceSets {
+    main.java.srcDirs += [ generated ]
+}
+
+// gradle clean 시에 QClass 디렉토리 삭제
+// 클린 명령어를 실행할 때 위의 generated 폴더에도 실행하라고...
+clean {
+    delete file(generated)
 }
