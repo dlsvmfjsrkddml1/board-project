@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d38f965-6cd4-4525-8db3-ccfa04d84db1" name="Changes" comment="" />
+    <list default="true" id="7d38f965-6cd4-4525-8db3-ccfa04d84db1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/controller/ArticleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleCommentRepository.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,8 +54,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JUnit5 Test Class" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -66,12 +71,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1689137400" />
+                    <option name="branchName" value="feature/#17-view" />
+                    <option name="lastUsedInstant" value="1689138210" />
                   </RecentBranch>
                   <RecentBranch>
-                    <option name="branchName" value="feature/#1-api" />
-                    <option name="lastUsedInstant" value="1689131428" />
+                    <option name="branchName" value="main" />
+                    <option name="lastUsedInstant" value="1689137400" />
                   </RecentBranch>
                 </list>
               </option>
@@ -127,6 +132,7 @@
       <recent name="" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="yong.boardproject.controller" />
       <recent name="yong.boardproject.repository" />
     </key>
   </component>
@@ -137,7 +143,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BoardProjectApplication">
+  <component name="RunManager" selected="JUnit.ArticleControllerTest">
     <configuration name="DataRestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -152,27 +158,6 @@
             <option value=":test" />
             <option value="--tests" />
             <option value="&quot;yong.boardproject.controller.DataRestTest&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="Tests in 'board-project.board-project.test'" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
           </list>
         </option>
         <option name="vmOptions" />
@@ -224,6 +209,28 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
+    <configuration name="ArticleControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="board-project.board-project.test~1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="yong.boardproject.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
+      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.ArticleControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BoardProjectApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="board-project.board-project.main~1" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BoardProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="board-project.board-project.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
@@ -240,17 +247,18 @@
     <list>
       <item itemvalue="Gradle.board-project [build]" />
       <item itemvalue="Gradle.board-project [clean]" />
-      <item itemvalue="Gradle.Tests in 'board-project.board-project.test'" />
       <item itemvalue="Gradle.DataRestTest" />
+      <item itemvalue="JUnit.ArticleControllerTest" />
+      <item itemvalue="Spring Boot.BoardProjectApplication (1)" />
       <item itemvalue="Spring Boot.BoardProjectApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArticleControllerTest" />
         <item itemvalue="Spring Boot.BoardProjectApplication" />
         <item itemvalue="Gradle.board-project [build]" />
         <item itemvalue="Gradle.board-project [clean]" />
         <item itemvalue="Gradle.DataRestTest" />
-        <item itemvalue="Gradle.Tests in 'board-project.board-project.test'" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +272,7 @@
       <updated>1689065422829</updated>
       <workItem from="1689065423929" duration="164000" />
       <workItem from="1689065618676" duration="7630000" />
-      <workItem from="1689120070725" duration="11172000" />
+      <workItem from="1689120070725" duration="12263000" />
     </task>
     <servers />
   </component>
