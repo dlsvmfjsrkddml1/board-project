@@ -5,8 +5,35 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38f965-6cd4-4525-8db3-ccfa04d84db1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/Article.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/ArticleComment.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/ArticleComment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules/board-project.board-project.main~1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleCommentRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleCommentRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/repository/ArticleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/reports/tests/test/classes/yong.boardproject.repository.JpaRepositoryTest.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/reports/tests/test/packages/yong.boardproject.repository.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/resources/main/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/resources/main/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/TEST-yong.boardproject.repository.JpaRepositoryTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/compileTransaction/stash-dir/JpaRepositoryTest.class.uniqueId0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/AuditingFields.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/domain/AuditingFields.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleCommentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleCommentRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/repository/ArticleRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/application.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +48,9 @@
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
+        <task path="$PROJECT_DIR$/board-project">
+          <activation />
+        </task>
         <projects_view>
           <tree_state>
             <expand />
@@ -50,12 +80,12 @@
               <option name="branches">
                 <list>
                   <RecentBranch>
-                    <option name="branchName" value="feature/#12-db-impl" />
-                    <option name="lastUsedInstant" value="1689120810" />
+                    <option name="branchName" value="feature/#1-api" />
+                    <option name="lastUsedInstant" value="1689122261" />
                   </RecentBranch>
                   <RecentBranch>
                     <option name="branchName" value="main" />
-                    <option name="lastUsedInstant" value="1689077334" />
+                    <option name="lastUsedInstant" value="1689122099" />
                   </RecentBranch>
                 </list>
               </option>
@@ -120,7 +150,99 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.JpaRepositoryTest">
+  <component name="RunManager" selected="Gradle.DataRestTest">
+    <configuration name="DataRestTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;yong.boardproject.controller.DataRestTest&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataRestTest.givenNothing_whenRequestArticles_thenReturnsArticlesJsonResponse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;yong.boardproject.controller.DataRestTest.givenNothing_whenRequestArticles_thenReturnsArticlesJsonResponse&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataRestTest.givenNothing_whenRequestStringArticles_thenReturnsArticlesJsonResponse" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;yong.boardproject.controller.DataRestTest.givenNothing_whenRequestStringArticles_thenReturnsArticlesJsonResponse&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="DataRestTest.test" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+            <option value="--tests" />
+            <option value="&quot;yong.boardproject.controller.DataRestTest.test&quot;" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="JpaRepositoryTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -144,123 +266,39 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="JpaRepositoryTest.givenTestData_whenDeleting_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;yong.boardproject.repository.JpaRepositoryTest.givenTestData_whenDeleting_thenWorksFine&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="JpaRepositoryTest.givenTestData_whenInserting_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;yong.boardproject.repository.JpaRepositoryTest.givenTestData_whenInserting_thenWorksFine&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="JpaRepositoryTest.givenTestData_whenSelecting_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;yong.boardproject.repository.JpaRepositoryTest.givenTestData_whenSelecting_thenWorksFine&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="JpaRepositoryTest.givenTestData_whenUpdating_thenWorksFine" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":test" />
-            <option value="--tests" />
-            <option value="&quot;yong.boardproject.repository.JpaRepositoryTest.givenTestData_whenUpdating_thenWorksFine&quot;" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
-      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
-      <DebugAllEnabled>false</DebugAllEnabled>
-      <method v="2" />
+    <configuration name="BoardProjectApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="board-project.board-project.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
     </configuration>
     <configuration name="BoardProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <envs>
-        <env name="server.port" value="9090" />
-      </envs>
-      <module name="board-project.board-project.main~1" />
+      <module name="board-project.board-project.main" />
+      <selectedOptions>
+        <option name="environmentVariables" />
+      </selectedOptions>
       <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
+      <item itemvalue="Gradle.DataRestTest" />
+      <item itemvalue="Gradle.DataRestTest.givenNothing_whenRequestArticles_thenReturnsArticlesJsonResponse" />
+      <item itemvalue="Gradle.DataRestTest.givenNothing_whenRequestStringArticles_thenReturnsArticlesJsonResponse" />
+      <item itemvalue="Gradle.DataRestTest.test" />
       <item itemvalue="Gradle.JpaRepositoryTest" />
-      <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenDeleting_thenWorksFine" />
-      <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenInserting_thenWorksFine" />
-      <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenSelecting_thenWorksFine" />
-      <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenUpdating_thenWorksFine" />
+      <item itemvalue="Spring Boot.BoardProjectApplication (1)" />
       <item itemvalue="Spring Boot.BoardProjectApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.DataRestTest" />
+        <item itemvalue="Gradle.DataRestTest.givenNothing_whenRequestStringArticles_thenReturnsArticlesJsonResponse" />
+        <item itemvalue="Gradle.DataRestTest.givenNothing_whenRequestArticles_thenReturnsArticlesJsonResponse" />
+        <item itemvalue="Gradle.DataRestTest.test" />
         <item itemvalue="Gradle.JpaRepositoryTest" />
-        <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenDeleting_thenWorksFine" />
-        <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenUpdating_thenWorksFine" />
-        <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenInserting_thenWorksFine" />
-        <item itemvalue="Gradle.JpaRepositoryTest.givenTestData_whenSelecting_thenWorksFine" />
       </list>
     </recent_temporary>
   </component>
@@ -274,7 +312,7 @@
       <updated>1689065422829</updated>
       <workItem from="1689065423929" duration="164000" />
       <workItem from="1689065618676" duration="7630000" />
-      <workItem from="1689120070725" duration="1101000" />
+      <workItem from="1689120070725" duration="4487000" />
     </task>
     <servers />
   </component>
