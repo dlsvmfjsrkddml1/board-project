@@ -5,8 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38f965-6cd4-4525-8db3-ccfa04d84db1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/BoardProjectApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/classes/java/main/yong/boardproject/BoardProjectApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/reports/tests/test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/resources/main/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/resources/main/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/test-results/test/binary/results.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/controller/ArticleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/java/yong/boardproject/controller/ArticleController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/ArticleControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/ArticleControllerTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,8 +69,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
         <option value="HTML File" />
       </list>
     </option>
@@ -113,13 +129,13 @@
     "WebServerToolWindowFactoryState": "false",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
-    "last_opened_file_path": "C:/GitProject/board-project/board-project/src/main/resources/templates",
+    "last_opened_file_path": "C:/GitProject/board-project/board-project/src/main/resources/templates/articles",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "settings.editor.selected.configurable": "preferences.pluginManager",
-    "spring.configuration.checksum": "b15775ad67515f92c09eb996c8be9c9a",
+    "spring.configuration.checksum": "83d9dcf863bb5844839f4f6401414d3c",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -130,6 +146,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitProject\board-project\board-project\src\main\resources\templates\articles" />
       <recent name="C:\GitProject\board-project\board-project\src\main\resources\templates" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -147,7 +164,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.BoardProjectApplication">
+  <component name="RunManager" selected="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleView_thenReturnsArticleView">
     <configuration name="board-project [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -169,23 +186,29 @@
       <DebugAllEnabled>false</DebugAllEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="ArticleControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="board-project.board-project.test~1" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="yong.boardproject.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
-      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.ArticleControllerTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+    <configuration name="board-project [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/board-project" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
     </configuration>
-    <configuration name="ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="board-project.board-project.test~1" />
+    <configuration name="ArticleControllerTest.givenNothing_whenRequestingArticleSearchView_thenReturnsArticleSearchView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="board-project.board-project.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yong.boardproject.controller.*" />
@@ -194,14 +217,14 @@
       </extension>
       <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
       <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.ArticleControllerTest" />
-      <option name="METHOD_NAME" value="givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
+      <option name="METHOD_NAME" value="givenNothing_whenRequestingArticleSearchView_thenReturnsArticleSearchView" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DataRestTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="board-project.board-project.test~1" />
+    <configuration name="ArticleControllerTest.givenNothing_whenRequestingArticleView_thenReturnsArticleView" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="board-project.board-project.test" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="yong.boardproject.controller.*" />
@@ -209,14 +232,15 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="yong.boardproject.controller" />
-      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.DataRestTest" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="MAIN_CLASS_NAME" value="yong.boardproject.controller.ArticleControllerTest" />
+      <option name="METHOD_NAME" value="givenNothing_whenRequestingArticleView_thenReturnsArticleView" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="BoardProjectApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="board-project.board-project.main~1" />
+      <module name="board-project.board-project.main" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="yong.boardproject.BoardProjectApplication" />
       <extension name="coverage">
         <pattern>
@@ -230,18 +254,18 @@
     </configuration>
     <list>
       <item itemvalue="Gradle.board-project [build]" />
-      <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
-      <item itemvalue="JUnit.DataRestTest" />
-      <item itemvalue="JUnit.ArticleControllerTest" />
+      <item itemvalue="Gradle.board-project [clean]" />
+      <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleSearchView_thenReturnsArticleSearchView" />
+      <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleView_thenReturnsArticleView" />
       <item itemvalue="Spring Boot.BoardProjectApplication" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleView_thenReturnsArticleView" />
+        <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleSearchView_thenReturnsArticleSearchView" />
         <item itemvalue="Spring Boot.BoardProjectApplication" />
         <item itemvalue="Gradle.board-project [build]" />
-        <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticlesView_thenReturnsArticlesView" />
-        <item itemvalue="JUnit.DataRestTest" />
-        <item itemvalue="JUnit.ArticleControllerTest" />
+        <item itemvalue="Gradle.board-project [clean]" />
       </list>
     </recent_temporary>
   </component>
@@ -255,7 +279,8 @@
       <updated>1689065422829</updated>
       <workItem from="1689065423929" duration="164000" />
       <workItem from="1689065618676" duration="7630000" />
-      <workItem from="1689120070725" duration="15707000" />
+      <workItem from="1689120070725" duration="19083000" />
+      <workItem from="1689148380999" duration="1866000" />
     </task>
     <servers />
   </component>
