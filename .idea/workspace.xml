@@ -5,10 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7d38f965-6cd4-4525-8db3-ccfa04d84db1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/.gradle/8.1.1/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/AuthControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/test/java/yong/boardproject/controller/AuthControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/detail.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/detail.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/templates/articles/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/templates/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/templates/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/board-project/src/main/resources/templates/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/board-project/src/main/resources/templates/header.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -149,7 +150,7 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.All in board-project.board-project.test">
+  <component name="RunManager" selected="Spring Boot.BoardProjectApplication">
     <configuration name="All in board-project.board-project.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="board-project.board-project.test" />
       <option name="PACKAGE_NAME" value="" />
@@ -227,10 +228,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.BoardProjectApplication" />
         <item itemvalue="JUnit.All in board-project.board-project.test" />
         <item itemvalue="JUnit.AuthControllerTest.givenNothing_whenTryingToLogIn_thenReturnsLogInView" />
         <item itemvalue="JUnit.ArticleControllerTest" />
-        <item itemvalue="Spring Boot.BoardProjectApplication" />
         <item itemvalue="JUnit.ArticleControllerTest.givenNothing_whenRequestingArticleView_thenReturnsArticleView" />
       </list>
     </recent_temporary>
@@ -249,7 +250,7 @@
       <workItem from="1689148380999" duration="4641000" />
       <workItem from="1689165930056" duration="4000" />
       <workItem from="1689168826694" duration="105000" />
-      <workItem from="1689210763639" duration="1285000" />
+      <workItem from="1689210763639" duration="5882000" />
     </task>
     <servers />
   </component>
