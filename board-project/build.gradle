@@ -25,6 +25,9 @@ dependencies {
 
     implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
 
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.thymeleaf.extras:thymeleaf-extras-springsecurity5'
+
     runtimeOnly 'com.h2database:h2'
     runtimeOnly 'com.mysql:mysql-connector-j'
 
@@ -32,6 +35,10 @@ dependencies {
     testImplementation 'org.springframework.boot:spring-boot-starter-test'
     compileOnly 'org.projectlombok:lombok'
     annotationProcessor 'org.projectlombok:lombok'
+
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+
+    annotationProcessor 'org.springframework.boot:spring-boot-configuration-processor'
 
     // queryDSL 설정
     implementation "com.querydsl:querydsl-jpa" // 버전이 없는데, 이것은 디펜던시 메니저가 알기 때문이다.
