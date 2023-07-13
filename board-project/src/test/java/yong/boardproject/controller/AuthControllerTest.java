@@ -10,7 +10,7 @@ import org.springframework.test.web.servlet.MockMvc;
 import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 import yong.boardproject.config.SecurityConfig;
 
-import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.*;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.* ;
 
 @DisplayName("View 컨트롤러 - 인증")
 @Import(SecurityConfig.class)
